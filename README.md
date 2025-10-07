@@ -39,7 +39,7 @@ Make sure Python 3.9+ is installed (check in terminal): ***python --version***
 Once it starts, open your browser to: [**http://127.0.0.1:8000/docs**](http://127.0.0.1:8000/docs)
 
 
-**6 screenshots of 3 examples for queries: https://github.com/dibatu/ai-on-fhir-fullstack/tree/main/fhir_backend/screenshots%20examples%20io%20queries** 
+**6 screenshots of 3 examples for queries:** https://github.com/dibatu/ai-on-fhir-fullstack/tree/main/fhir_backend/screenshots%20examples%20io%20queries
 
 **------------------------------------------------------------------------------------------------------------------------------**
 
