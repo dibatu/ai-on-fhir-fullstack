@@ -155,7 +155,7 @@ Features
 
 
 **Example Queries: 
-link:** nlq-ui/screenshots
+link:** [nlq-ui/screenshots](https://github.com/dibatu/ai-on-fhir-fullstack/tree/main/nlq-ui/screenshots)
 
 
 
