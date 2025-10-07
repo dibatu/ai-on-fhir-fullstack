@@ -155,7 +155,7 @@ Features
 
 
 **Example Queries: 
-link:** 
+link:** nlq-ui/screenshots
 
 
 
