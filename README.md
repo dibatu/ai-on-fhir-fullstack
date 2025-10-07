@@ -165,7 +165,7 @@ link:** [nlq-ui/screenshots](https://github.com/dibatu/ai-on-fhir-fullstack/tree
 
 ### **PART3:**
 
-**Security and Compliance Plan: link** 
+**Security and Compliance Plan: link** https://github.com/dibatu/ai-on-fhir-fullstack/blob/main/Part3.pdf
 
 
 
