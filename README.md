@@ -76,9 +76,8 @@ Features
 
 
 
-**Main File**: https://github.com/dibatu/ai-on-fhir-fullstack/tree/main/nlq-ui/src/App.tsx
-**Example Queries: 
-link:** [nlq-ui/screenshots](https://github.com/dibatu/ai-on-fhir-fullstack/tree/main/nlq-ui/screenshots)
+**Main File**: https://github.com/dibatu/ai-on-fhir-fullstack/tree/main/nlq-ui/src/App.tsx *
+**Example Queries:** https://github.com/dibatu/ai-on-fhir-fullstack/tree/main/nlq-ui/screenshots
 
 
 
