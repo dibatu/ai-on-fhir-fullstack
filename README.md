@@ -35,7 +35,7 @@ Make sure Python 3.9+ is installed (check in terminal): ***python --version***
 
 
 
-
+**Main file**: https://github.com/dibatu/ai-on-fhir-fullstack/blob/main/fhir_backend/main.py
 Once it starts, open your browser to: [**http://127.0.0.1:8000/docs**](http://127.0.0.1:8000/docs)
 
 
