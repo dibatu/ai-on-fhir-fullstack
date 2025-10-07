@@ -73,10 +73,9 @@ Features
 * Error handling for invalid queries
 * Fully responsive layout
 
+**Main File**: https://github.com/dibatu/ai-on-fhir-fullstack/tree/main/nlq-ui/src/App.tsx 
 
 
-
-**Main File**: https://github.com/dibatu/ai-on-fhir-fullstack/tree/main/nlq-ui/src/App.tsx *
 **Example Queries:** https://github.com/dibatu/ai-on-fhir-fullstack/tree/main/nlq-ui/screenshots
 
 
